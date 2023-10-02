@@ -1,4 +1,5 @@
-# Project Name: Django Bing Search                /Traduza para o português caso necessário, clique com o botão direito na página e coloque o google pra traduzir/
+# Project Name: Django Bing Search               
+/Traduza para o português caso necessário, clique com o botão direito na página e coloque o google pra traduzir/
 
 A Django-based website that resembles Google search functionality. Given a user-provided link, the application searches Bing and retrieves the top 10 most relevant URLs from the first 40 pages of results.
 
